@@ -1,0 +1,148 @@
+h2 {
+  font-family: "Raleway", sans-serif;
+  color: #0f1032;
+  font-weight: 600;
+}
+
+h5 {
+  font-family: "Raleway", sans-serif;
+  color: #0f1032;
+  font-weight: 500;
+}
+
+h4 {
+  font-family: "Raleway", sans-serif;
+  color: #0f1032;
+  font-weight: 600;
+}
+
+.row1 p,
+.row3 p,
+.row5 p {
+  text-align: left;
+  font-family: "Varela Round", sans-serif;
+  color: #6d6e7e;
+}
+
+.row4 p {
+  text-align: center;
+  font-family: "Varela Round", sans-serif;
+  color: #060606;
+}
+
+.con1 {
+  background-color: #f0f3ff;
+}
+
+.btn1 {
+  text-align: left;
+  color: #ffffff;
+  background-color: #000000;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #e8e8eb;
+  padding: 15px 40px;
+  border-radius: 50px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px !important;
+}
+
+.btn1:hover {
+  border: 2px solid black;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.row1col2 {
+  background-image: url(https://library.uicore.co/wp-content/uploads/2021/09/Digital-Product-well-BG.png);
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.row2 {
+  position: relative;
+  top: -100px;
+  border-radius: 8px;
+  transition: transform 250ms linear;
+}
+
+.row2:hover {
+  transform: translateY(-10px);
+}
+
+.row2 p {
+  text-align: left;
+  font-family: "Varela Round", sans-serif;
+  color: #ffffff;
+}
+
+.card1 {
+  border: none;
+  transition: box-shadow 0.3s;
+  border-radius: 10px;
+}
+
+.card1:hover {
+  box-shadow: 0 0 50px rgba(142, 104, 173, 0.5);
+}
+
+.card2 {
+  transition: border-top 0.8s;
+  border: none;
+  background-color: rgba(142, 104, 173, 0.1);
+  border-top: 5px solid white;
+  border-radius: 10px;
+  padding: 40px;
+  box-shadow: 0 0 10px rgba(142, 104, 173, 0.1);
+}
+
+.card2:hover {
+  border-top: 5px solid rgba(142, 104, 173);
+}
+
+.row5 {
+  background-image: url(https://library.uicore.co/wp-content/uploads/2021/08/Bg5.webp);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 80vw;
+}
+
+.con2 {
+  font-family: "Varela Round", sans-serif;
+  background-color: #000000;
+  color: #ffffff !important;
+}
+
+.con2 p {
+  margin-bottom: 8px !important;
+  font-size: 15px !important;
+}
+
+.con2 .p1 {
+  margin-bottom: 15px !important;
+  font-size: 18px !important;
+}
+
+.con2 .p2 {
+  text-align: center;
+}
+
+.con2 hr {
+  height: 2px;
+  color: #ffffff;
+  margin: 20px 0;
+}
+
+.con2 p:hover {
+  color: #7893ff;
+}
+
+.con2 .p1:hover,
+.con2 .p2:hover {
+  color: #ffffff;
+}
+
+.con2 a:hover {
+  color: #7893ff !important;
+}
